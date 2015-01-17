@@ -1,0 +1,109 @@
+.nav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CCFF00;
+	margin-left: 30px;
+}
+a.nav:link {
+	color: #FFFFFF;
+}
+a.nav:visited {
+	color: #FFFFFF;
+}
+a.nav:hover {
+	color: #FF6633;
+}
+a.nav:active {
+	color: #CCFF00;
+}
+.outline {
+	border: 1px solid #336600;
+}
+.midline {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCCCCC;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+	color: #000000;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #339900;
+	line-height: 160%;
+}
+#rightcolumn {
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+#leftcolumn {
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 170%;
+	font-weight: normal;
+	color: #000000;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #336600;
+	line-height: 100%;
+}
+.sidetext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 170%;
+	font-weight: normal;
+	color: #000000;
+}
+#sfkhead {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #CCFF00;
+	vertical-align: middle;
+}
+.caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 130%;
+	font-weight: normal;
+	color: #000000;
+	padding-top: 3px;
+}
+#copyright {
+	margin-left: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+	vertical-align: middle;
+}
+#credit {
+	margin-left: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+	vertical-align: middle;
+}
+li {
+	list-style-position: outside;
+	list-style-type: circle;
+	margin-left: -25px;
+}
